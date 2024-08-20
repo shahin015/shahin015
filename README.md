@@ -20,8 +20,8 @@ Currently, I’m focused on developing innovative applications and contributing 
 
 I’m always open to collaboration and discussion. Feel free to reach out if you’d like to connect!
 
-- **GitHub Profile**: [https://github.com/shahin015](My GitHub )
-- **LinkedIn**: [https://www.linkedin.com/in/shahin-rahaman-07b399259](My Linkdin)
-- **Portfolio**: [https://skillbuildar.com/](My Portfolio)
+- **GitHub Profile**: [https://github.com/shahin015](MyGitHub )
+- **LinkedIn**: [https://www.linkedin.com/in/shahin-rahaman-07b399259](MyLinkdin)
+- **Portfolio**: [https://skillbuildar.com/](MyPortfolio)
 
 Thank you for visiting my profile!
