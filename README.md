@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Shahin Rahman
-- 👀 I’m interested in Andoid and ISo Developer
-- 🌱 I’m currently learning Java And Pythone
-- 💞️ I’m looking to collaborate on 2022
-- 📫 How to reach me +8801950458291 My Wp Namber 
+# Welcome to My GitHub Profile!
 
-<!---
-shahin015/shahin015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+👋 Hello! I’m an Android app developer with 4 years of experience in the field. I specialize in building dynamic and robust applications using:
+
+- **Java**: For Android app development.
+- **PHP**: For backend development.
+- **Bootstrap**: For designing responsive web interfaces.
+- **Various Libraries**: To enhance functionality and streamline development.
+
+My passion for coding drives me to continuously explore new technologies and tackle exciting challenges. Whether it's improving an existing project or starting something from scratch, I enjoy creating solutions that make a difference.
+
+## What I’m Working On
+
+Currently, I’m focused on developing innovative applications and contributing to open-source projects. Feel free to browse through my repositories to see my work and ongoing projects.
+
+## Get in Touch
+
+I’m always open to collaboration and discussion. Feel free to reach out if you’d like to connect!
+
+- **GitHub Profile**: [https://github.com/shahin015](https://github.com/shahin015)
+- **LinkedIn**: [https://www.linkedin.com/in/shahin-rahaman-07b399259](https://www.linkedin.com/in/shahin-rahaman-07b399259)
+- **Portfolio**: [https://skillbuildar.com/](https://skillbuildar.com/)
+
+Thank you for visiting my profile!
