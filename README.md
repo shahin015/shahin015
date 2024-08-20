@@ -8,6 +8,7 @@
 - **PHP**: For backend development.
 - **Bootstrap**: For designing responsive web interfaces.
 - **Various Libraries**: To enhance functionality and streamline development.
+- **JS**: For Admin Pannel
 
 My passion for coding drives me to continuously explore new technologies and tackle exciting challenges. Whether it's improving an existing project or starting something from scratch, I enjoy creating solutions that make a difference.
 
@@ -19,8 +20,8 @@ Currently, I’m focused on developing innovative applications and contributing 
 
 I’m always open to collaboration and discussion. Feel free to reach out if you’d like to connect!
 
-- **GitHub Profile**: [https://github.com/shahin015](https://github.com/shahin015)
-- **LinkedIn**: [https://www.linkedin.com/in/shahin-rahaman-07b399259](https://www.linkedin.com/in/shahin-rahaman-07b399259)
-- **Portfolio**: [https://skillbuildar.com/](https://skillbuildar.com/)
+- **GitHub Profile**: [https://github.com/shahin015](My GitHub )
+- **LinkedIn**: [https://www.linkedin.com/in/shahin-rahaman-07b399259](My Linkdin)
+- **Portfolio**: [https://skillbuildar.com/](My Portfolio)
 
 Thank you for visiting my profile!
